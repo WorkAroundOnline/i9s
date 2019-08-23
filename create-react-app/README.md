@@ -4,9 +4,9 @@
 
 This interview assesses your ability to work and learn modern web technologies in the React stack.
 
-Exercises will build on each other and be difficult. You should use both online resources and your interviewer. Because the maximum time for this interview is one hour, you may not finish.
+Exercises can build on the concepts of each other and be difficult. You should use both online resources and your interviewer. Because the maximum time for this interview is 50 minutes, you may not finish.
 
-## Challenge 1
+To begin, go into the `challenge1` directory and read the README.md. After that, proceed to the `challenge2` directory.
 
 ## Interviewer Only
 
