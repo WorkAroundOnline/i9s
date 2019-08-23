@@ -1,6 +1,6 @@
 # Create React App Interview
 
-**If you view this material prior to the interview, you won't be eligible for the interview, if you're interviewing at WorkAround stop reading!**
+**If you view this material prior to the interview, you won't be eligible for the interview, if you're interviewing at WorkAround min the near future stop reading!**
 
 This interview assesses your ability to work and learn modern web technologies in the React stack.
 
