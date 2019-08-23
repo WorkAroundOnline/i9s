@@ -1,0 +1,13 @@
+{
+  "name": "challenge1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "author": "Severin Ibarluzea",
+  "dependencies": {
+    "ava": "^2.3.0"
+  }
+}
