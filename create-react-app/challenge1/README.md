@@ -1,5 +1,11 @@
 # Challenge 1
 
-Please fix the javascript code so the tests pass. There are two functions. The bottom function takes an array of numbers, and should output all of the numbers below the average. The top function takes an array of numbers, and should output all numbers above the average.
+Please fix the javascript code so the tests pass.
 
-You can run the tests with `npm run test`
+There are two functions.
+
+The `bottom` function takes an array of numbers, and should output all of the numbers below the average.
+
+The `top` function takes an array of numbers, and should output all numbers above the average.
+
+To test your code, you can run `npm install` to install dependencies then `npm run test` to run tests.
