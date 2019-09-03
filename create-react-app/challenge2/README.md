@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Please complete the `App.js` react component, so that every time a user presses the button, the number counts up.
 
-You should use the `npm start` script to preview the code as you make changes.
+Run `npm install` to install the dependencies. You should use the `npm start` script to preview the code as you make changes.
 
 ## Available Scripts
 
