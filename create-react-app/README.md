@@ -9,7 +9,7 @@ Exercises can build on the concepts of each other and be difficult. You should u
 To begin, go into the `challenge1` directory and read the README.md. After that, proceed to the `challenge2` directory.
 
 **You are not tested on algorithm speed like a traditional technical interview,
-or on best practices, focus on getting through each challenge.**
+or on best practices, focus on getting through each challenge. This test is not realy about code structure or cleanliness, just try to get through all the challenges!**
 
 ## Tips for Cloud9 Usage
 
